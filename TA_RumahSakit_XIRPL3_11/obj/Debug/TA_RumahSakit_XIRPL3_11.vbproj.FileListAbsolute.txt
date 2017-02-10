@@ -1,0 +1,27 @@
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\bin\Debug\TA_RumahSakit_XIRPL3_11.exe.config
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\bin\Debug\TA_RumahSakit_XIRPL3_11.exe
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\bin\Debug\TA_RumahSakit_XIRPL3_11.pdb
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\bin\Debug\TA_RumahSakit_XIRPL3_11.xml
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\bin\Debug\itextsharp.dll
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\bin\Debug\itextsharp.pdfa.dll
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\bin\Debug\itextsharp.xtra.dll
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\bin\Debug\itextsharp.xml
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\obj\Debug\TA_RumahSakit_XIRPL3_11.vbprojResolveAssemblyReference.cache
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\obj\Debug\TA_RumahSakit_XIRPL3_11.daftar.resources
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\obj\Debug\TA_RumahSakit_XIRPL3_11.login.resources
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\obj\Debug\TA_RumahSakit_XIRPL3_11.Resources.resources
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\obj\Debug\TA_RumahSakit_XIRPL3_11.vbproj.GenerateResource.Cache
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\obj\Debug\TA_RumahSakit_XIRPL3_11.exe
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\obj\Debug\TA_RumahSakit_XIRPL3_11.xml
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\obj\Debug\TA_RumahSakit_XIRPL3_11.pdb
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\obj\Debug\TA_RumahSakit_XIRPL3_11.lupa.resources
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\obj\Debug\TA_RumahSakit_XIRPL3_11.menuutama.resources
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\obj\Debug\TA_RumahSakit_XIRPL3_11.dokter.resources
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\obj\Debug\TA_RumahSakit_XIRPL3_11.pasien.resources
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\obj\Debug\TA_RumahSakit_XIRPL3_11.detail.resources
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\obj\Debug\TA_RumahSakit_XIRPL3_11.ruang.resources
+E:\Moklet\Kelas XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\obj\Debug\TA_RumahSakit_XIRPL3_11.pesan.resources
+E:\Moklet\XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\bin\Debug\TA_RumahSakit_XIRPL3_11.exe.config
+E:\Moklet\XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\obj\Debug\TA_RumahSakit_XIRPL3_11.exe
+E:\Moklet\XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\obj\Debug\TA_RumahSakit_XIRPL3_11.xml
+E:\Moklet\XIR3\Semester 2\Desktop\TA_RumahSakit_XIRPL3_11\TA_RumahSakit_XIRPL3_11\obj\Debug\TA_RumahSakit_XIRPL3_11.pdb

@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{34EC2EED-3C36-46C7-9DB9-4EA27441E71E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>TA_RumahSakit_XIRPL3_11.My.MyApplication</StartupObject>
+    <RootNamespace>TA_RumahSakit_XIRPL3_11</RootNamespace>
+    <AssemblyName>TA_RumahSakit_XIRPL3_11</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>TA_RumahSakit_XIRPL3_11.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>TA_RumahSakit_XIRPL3_11.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\..\..\..\Backup Download\Compressed\itextsharp-all-5.5.8\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>..\..\..\..\..\..\Backup Download\Compressed\itextsharp-all-5.5.8\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra">
+      <HintPath>..\..\..\..\..\..\Backup Download\Compressed\itextsharp-all-5.5.8\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.CF, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="daftar.Designer.vb">
+      <DependentUpon>daftar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="daftar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="detail.Designer.vb">
+      <DependentUpon>detail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="detail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dokter.Designer.vb">
+      <DependentUpon>dokter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dokter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lupa.Designer.vb">
+      <DependentUpon>lupa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="lupa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuutama.Designer.vb">
+      <DependentUpon>menuutama.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menuutama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="pasien.Designer.vb">
+      <DependentUpon>pasien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pasien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pesan.Designer.vb">
+      <DependentUpon>pesan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pesan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ruang.Designer.vb">
+      <DependentUpon>ruang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ruang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="daftar.resx">
+      <DependentUpon>daftar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="detail.resx">
+      <DependentUpon>detail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dokter.resx">
+      <DependentUpon>dokter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lupa.resx">
+      <DependentUpon>lupa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuutama.resx">
+      <DependentUpon>menuutama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pasien.resx">
+      <DependentUpon>pasien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pesan.resx">
+      <DependentUpon>pesan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ruang.resx">
+      <DependentUpon>ruang.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
